@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tv-canal-1",
+    "name": "Canal 1",
+    "category": "TV en vivo",
+    "subcategory": "Nacionales",
+    "image": "https://TU-SERVIDOR.com/imagenes/canal1.png",
+    "url": "https://TU-SERVIDOR.com/live/canal1.m3u8"
+  },
+
+  {
+    "id": "pelicula-1",
+    "name": "Nombre de la película",
+    "category": "Películas",
+    "subcategory": "Acción",
+    "image": "https://TU-SERVIDOR.com/imagenes/pelicula1.jpg",
+    "url": "https://TU-SERVIDOR.com/videos/pelicula1.m3u8",
+    "description": "Descripción de la película.",
+    "year": "2026",
+    "durationText": "1 h 45 min"
+  },
+
+  {
+    "id": "serie-1",
+    "name": "Nombre de la serie",
+    "category": "Series",
+    "subcategory": "Drama",
+    "image": "https://TU-SERVIDOR.com/imagenes/serie1.jpg",
+    "url": "https://TU-SERVIDOR.com/videos/serie1-preview.m3u8",
+    "description": "Descripción de la serie.",
+    "year": "2026",
+    "durationText": "45 min",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "id": "serie-1-s1e1",
+            "name": "Episodio 1",
+            "durationText": "45 min",
+            "url": "https://TU-SERVIDOR.com/videos/serie1-s1e1.m3u8"
+          },
+          {
+            "id": "serie-1-s1e2",
+            "name": "Episodio 2",
+            "durationText": "47 min",
+            "url": "https://TU-SERVIDOR.com/videos/serie1-s1e2.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
