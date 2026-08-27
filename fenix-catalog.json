@@ -7,19 +7,24 @@
     "image": "https://TU-SERVIDOR.com/imagenes/canal1.png",
     "url": "https://TU-SERVIDOR.com/live/canal1.m3u8"
   },
-
   {
     "id": "pelicula-1",
-    "name": "Nombre de la película",
+    "name": "Película prueba con subtítulos",
     "category": "Películas",
     "subcategory": "Acción",
     "image": "https://TU-SERVIDOR.com/imagenes/pelicula1.jpg",
-    "url": "https://TU-SERVIDOR.com/videos/pelicula1.m3u8",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "description": "Descripción de la película.",
     "year": "2026",
-    "durationText": "1 h 45 min"
+    "durationText": "1 h 45 min",
+    "subtitles": [
+      {
+        "language": "es",
+        "label": "Español",
+        "url": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/refs/heads/main/fenix-test-es.vtt"
+      }
+    ]
   },
-
   {
     "id": "serie-1",
     "name": "Nombre de la serie",
