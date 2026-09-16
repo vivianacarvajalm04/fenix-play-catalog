@@ -81,23 +81,5 @@
     "image": "https://graph.facebook.com/retroplustv/picture?width=200&height=200",
     "url": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8",
     "subtitles": []
-  },
-  {
-    "id": "tv-portal-foxmix-cl",
-    "name": "Portal Foxmix Chile",
-    "category": "TV en vivo",
-    "subcategory": "Musicales",
-    "image": "https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200",
-    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
-    "subtitles": []
-  },
-  {
-    "id": "tv-energeek-radio-cl",
-    "name": "EnerGeek Radio Chile",
-    "category": "TV en vivo",
-    "subcategory": "Musicales",
-    "image": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
-    "url": "https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES",
-    "subtitles": []
   }
 ]
