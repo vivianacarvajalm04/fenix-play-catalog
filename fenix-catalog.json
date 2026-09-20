@@ -180,5 +180,325 @@
     "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-antofagasta-cl.png",
     "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
     "subtitles": []
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-156-rewind",
+    "image": "https://cdn.m3u.cl/logo/156_Rewind.png",
+    "name": "Rewind",
+    "subcategory": "Musicales",
+    "url": "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1771-qultura",
+    "image": "https://cdn.m3u.cl/logo/1771_Qultura.png",
+    "name": "Qultura",
+    "subcategory": "Regionales",
+    "url": "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-5-retro-plus-tv-senal-2",
+    "image": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
+    "name": "Retro Plus TV Señal 2",
+    "subcategory": "Musicales",
+    "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-465-retro-plus-tv-senal-3",
+    "image": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",
+    "name": "Retro Plus TV Señal 3",
+    "subcategory": "Cine y Series",
+    "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1160-vclassictv",
+    "image": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+    "name": "VClassicTV",
+    "subcategory": "Musicales",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1255-vclassictv-tropical",
+    "image": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+    "name": "VClassicTV Tropical",
+    "subcategory": "Musicales",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-521-recuerdos-retro-radio-tv",
+    "image": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+    "name": "Recuerdos Retro Radio TV",
+    "subcategory": "Musicales",
+    "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1692-pridetv-latam",
+    "image": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
+    "name": "PRIDEtv Latam",
+    "subcategory": "Entretenimiento",
+    "url": "https://stream.pridetvlatam.cl/iptv/channel/2.m3u8?mode=segmenter&PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1112-energeek-fan",
+    "image": "https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png",
+    "name": "EnerGeek FAN",
+    "subcategory": "Entretenimiento",
+    "url": "https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-947-energeek",
+    "image": "https://cdn.m3u.cl/logo/947_EnerGeek.png",
+    "name": "EnerGeek",
+    "subcategory": "Entretenimiento",
+    "url": "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1087-opinionsur-cine",
+    "image": "https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png",
+    "name": "Opinionsur Cine",
+    "subcategory": "Cine y Series",
+    "url": "https://mediagruptv.stream:8081/opinionsur/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-13-ruidos-tv",
+    "image": "https://cdn.m3u.cl/logo/13_Ruidos_TV.png",
+    "name": "Ruidos TV",
+    "subcategory": "Musicales",
+    "url": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1716-ruidos-fm",
+    "image": "https://cdn.m3u.cl/logo/1716_Ruidos_FM.png",
+    "name": "Ruidos FM",
+    "subcategory": "Entretenimiento",
+    "url": "https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1312-eternal-metal",
+    "image": "https://cdn.m3u.cl/logo/1312_Eternal_Metal.png",
+    "name": "Eternal Metal",
+    "subcategory": "Musicales",
+    "url": "https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1014-planetatv",
+    "image": "https://cdn.m3u.cl/logo/1014_PlanetaTV.png",
+    "name": "PlanetaTV",
+    "subcategory": "Musicales",
+    "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1424-parentesis-tv",
+    "image": "https://cdn.m3u.cl/logo/1424_Parentesis_TV.png",
+    "name": "Parentesis TV",
+    "subcategory": "Musicales",
+    "url": "https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1706-central-tv",
+    "image": "https://cdn.m3u.cl/logo/1706_Central_TV.png",
+    "name": "Central TV",
+    "subcategory": "Regionales",
+    "url": "https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-417-radio-favorita",
+    "image": "https://cdn.m3u.cl/logo/417_Radio_Favorita.png",
+    "name": "Radio Favorita",
+    "subcategory": "Musicales",
+    "url": "https://freya.mivideo.pro/favoritatv2/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-771-mundo-de-la-musica-tv",
+    "image": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+    "name": "Mundo de la Musica TV",
+    "subcategory": "Musicales",
+    "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1288-suyai-tv",
+    "image": "https://cdn.m3u.cl/logo/1288_Suyai_TV.png",
+    "name": "Suyai TV",
+    "subcategory": "Cultura y Educación",
+    "url": "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1772-radio-labrar-noticias",
+    "image": "https://cdn.m3u.cl/logo/1772_Radio_Labrar_Noticias.png",
+    "name": "Radio Labrar Noticias",
+    "subcategory": "Informativos",
+    "url": "https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1098-crtv",
+    "image": "https://cdn.m3u.cl/logo/1098_CRTV.png",
+    "name": "CRTV",
+    "subcategory": "Deportes",
+    "url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1798-lcr-television",
+    "image": "https://cdn.m3u.cl/logo/1798_LCR_Television.png",
+    "name": "LCR Televisión",
+    "subcategory": "Entretenimiento",
+    "url": "https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1796-showtimetv",
+    "image": "https://cdn.m3u.cl/logo/1796_ShowtimeTV.png",
+    "name": "ShowtimeTV",
+    "subcategory": "Entretenimiento",
+    "url": "https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1793-tv-valdivia",
+    "image": "https://cdn.m3u.cl/logo/1793_TV_Valdivia.png",
+    "name": "TV Valdivia",
+    "subcategory": "Regionales",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8206/8206/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1791-centaury-radio-hd",
+    "image": "https://cdn.m3u.cl/logo/1791_Centaury_Radio_HD.png",
+    "name": "Centaury Radio HD",
+    "subcategory": "Entretenimiento",
+    "url": "https://ccp.centaurychile.com/centaury/stream.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1788-radio-magica-tv",
+    "image": "https://cdn.m3u.cl/logo/1788_Radio_Magica_TV.png",
+    "name": "Radio Mágica TV",
+    "subcategory": "Musicales",
+    "url": "https://stmv1.voxtvhd.com.br/radiomagicatv/radiomagicatv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1777-radio-via-7-tv",
+    "image": "https://cdn.m3u.cl/logo/1777_Radio_Via_7_TV.png",
+    "name": "Radio Via 7 TV",
+    "subcategory": "Musicales",
+    "url": "https://tv.arkeo.cl:1936/radiovia7tv/radiovia7tv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1495-mas-radio-tv",
+    "image": "https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png",
+    "name": "Mas Radio TV",
+    "subcategory": "Musicales",
+    "url": "https://iptv.intersurtv.cl/intersur_mauletv/index.fmp4.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1776-radio-bohemia-tv",
+    "image": "https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png",
+    "name": "Radio Bohemia TV",
+    "subcategory": "Musicales",
+    "url": "https://portalstream.cl:8080/bohemia1.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1775-lamix-tv",
+    "image": "https://cdn.m3u.cl/logo/1775_LaMix_TV.png",
+    "name": "LaMix TV",
+    "subcategory": "Regionales",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/lamixtv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1774-radio-fantasia",
+    "image": "https://cdn.m3u.cl/logo/1774_Radio_Fantasia.png",
+    "name": "Radio Fantasia",
+    "subcategory": "Musicales",
+    "url": "https://srt.servilive.com/live/fantasiachile-pf556.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1769-china-channel",
+    "image": "https://cdn.m3u.cl/logo/1769_China_Channel.png",
+    "name": "China Channel",
+    "subcategory": "Entretenimiento",
+    "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1768-coyhaique-tv",
+    "image": "https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png",
+    "name": "Coyhaique TV",
+    "subcategory": "Regionales",
+    "url": "https://v2.tustreaming.cl/coyhaiquetv/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1767-wapptv",
+    "image": "https://cdn.m3u.cl/logo/1767_WappTV.png",
+    "name": "WappTV",
+    "subcategory": "Regionales",
+    "url": "https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1765-retromusica-television",
+    "image": "https://cdn.m3u.cl/logo/1765_Retromusica_Television.png",
+    "name": "Retromusica Television",
+    "subcategory": "Musicales",
+    "url": "https://vdochile.com:3864/hybrid/play.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1764-grupo-libra-tv",
+    "image": "https://cdn.m3u.cl/logo/1764_Grupo_Libra_TV.png",
+    "name": "Grupo Libra TV",
+    "subcategory": "Regionales",
+    "url": "https://v2.tustreaming.cl/libratv/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1759-docevision",
+    "image": "https://cdn.m3u.cl/logo/1759_Docevision.png",
+    "name": "Docevision",
+    "subcategory": "Regionales",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1757-radio-magistral-coihueco",
+    "image": "https://cdn.m3u.cl/logo/1757_Radio_Magistral_Coihueco.png",
+    "name": "Radio Magistral Coihueco",
+    "subcategory": "Musicales",
+    "url": "https://tv.arkeo.cl:19360/8056/8056.m3u8?PlaylistM3UCL"
+  },
+  {
+    "category": "TV en vivo",
+    "id": "tv-m3ucl-1755-fm-plus",
+    "image": "https://cdn.m3u.cl/logo/1755_FM_Plus.png",
+    "name": "FM Plus",
+    "subcategory": "Musicales",
+    "url": "https://v2.tustreaming.cl/fmplus/index.m3u8?PlaylistM3UCL"
   }
 ]

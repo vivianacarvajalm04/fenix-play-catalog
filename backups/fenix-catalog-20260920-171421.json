@@ -1,0 +1,184 @@
+[
+  {
+    "id": "tv-canal-1",
+    "name": "Canal prueba HLS",
+    "category": "TV en vivo",
+    "subcategory": "Nacionales",
+    "image": "https://TU-SERVIDOR.com/imagenes/canal1.png",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": "tv-canal-2",
+    "name": "Canal prueba HLS 2",
+    "category": "TV en vivo",
+    "subcategory": "Nacionales",
+    "image": "https://TU-SERVIDOR.com/imagenes/canal2.png",
+    "url": "https://storage.googleapis.com/shaka-demo-assets/sintel-ts-aes-key-rotation/master.m3u8"
+  },
+  {
+    "id": "pelicula-1",
+    "name": "Película prueba con subtítulos",
+    "category": "Películas",
+    "subcategory": "Acción",
+    "image": "https://TU-SERVIDOR.com/imagenes/pelicula1.jpg",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "description": "Descripción de la película.",
+    "year": "2026",
+    "durationText": "1 h 45 min",
+    "subtitles": [
+      {
+        "language": "es",
+        "label": "Español",
+        "url": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/refs/heads/main/fenix-test-es.vtt"
+      }
+    ]
+  },
+  {
+    "id": "serie-1",
+    "name": "Nombre de la serie",
+    "category": "Series",
+    "subcategory": "Drama",
+    "image": "https://TU-SERVIDOR.com/imagenes/serie1.jpg",
+    "url": "https://TU-SERVIDOR.com/videos/serie1-preview.m3u8",
+    "description": "Descripción de la serie.",
+    "year": "2026",
+    "durationText": "45 min",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Temporada 1",
+        "episodes": [
+          {
+            "id": "serie-1-s1e1",
+            "name": "Episodio 1",
+            "durationText": "45 min",
+            "url": "https://TU-SERVIDOR.com/videos/serie1-s1e1.m3u8"
+          },
+          {
+            "id": "serie-1-s1e2",
+            "name": "Episodio 2",
+            "durationText": "47 min",
+            "url": "https://TU-SERVIDOR.com/videos/serie1-s1e2.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tv-canal-3",
+    "name": "Canal Demo 3",
+    "category": "TV en vivo",
+    "subcategory": "Pruebas",
+    "image": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-retro-plus-cl",
+    "name": "Retro Plus TV Chile",
+    "category": "TV en vivo",
+    "subcategory": "Musicales",
+    "image": "https://graph.facebook.com/retroplustv/picture?width=200&height=200",
+    "url": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-portal-foxmix-cl",
+    "name": "Portal Foxmix Chile",
+    "category": "TV en vivo",
+    "subcategory": "Musicales",
+    "image": "https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200",
+    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-energeek-radio-cl",
+    "name": "EnerGeek Radio Chile",
+    "category": "TV en vivo",
+    "subcategory": "Musicales",
+    "image": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+    "url": "https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-24h",
+    "name": "24h",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
+    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-euronews",
+    "name": "Euronews",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://graph.facebook.com/es.euronews/picture?width=200&height=200",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-3catinfo",
+    "name": "3CatInfo",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-el-pais",
+    "name": "El País",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://graph.facebook.com/elpais/picture?width=200&height=200",
+    "url": "https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-el-confidencial",
+    "name": "El Confidencial",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://graph.facebook.com/elconfidencial/picture?width=200&height=200",
+    "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-m3u-negocios-tv",
+    "name": "Negocios TV",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://graph.facebook.com/Negociostele/picture?width=200&height=200",
+    "url": "https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-senado-cl",
+    "name": "TV Senado Chile",
+    "category": "TV en vivo",
+    "subcategory": "Informativos",
+    "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-senado-cl.png",
+    "url": "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd",
+    "subtitles": []
+  },
+  {
+    "id": "tv-holvoet-cl",
+    "name": "Holvoet TV Copiapó",
+    "category": "TV en vivo",
+    "subcategory": "Nacionales",
+    "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-holvoet-cl.png",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "tv-antofagasta-cl",
+    "name": "Antofagasta TV",
+    "category": "TV en vivo",
+    "subcategory": "Nacionales",
+    "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-antofagasta-cl.png",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "subtitles": []
+  }
+]
