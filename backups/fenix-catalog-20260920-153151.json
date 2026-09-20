@@ -153,14 +153,5 @@
     "image": "https://graph.facebook.com/Negociostele/picture?width=200&height=200",
     "url": "https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8",
     "subtitles": []
-  },
-  {
-    "id": "tv-senado-cl",
-    "name": "TV Senado Chile",
-    "category": "TV en vivo",
-    "subcategory": "Informativos",
-    "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-senado-cl.png",
-    "url": "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd",
-    "subtitles": []
   }
 ]
