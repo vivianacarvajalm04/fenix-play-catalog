@@ -162,14 +162,5 @@
     "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-senado-cl.png",
     "url": "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd",
     "subtitles": []
-  },
-  {
-    "id": "tv-holvoet-cl",
-    "name": "Holvoet TV Copiapó",
-    "category": "TV en vivo",
-    "subcategory": "Nacionales",
-    "image": "https://raw.githubusercontent.com/vivianacarvajalm04/fenix-play-catalog/main/imagenes/canales/tv-holvoet-cl.png",
-    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-    "subtitles": []
   }
 ]
